@@ -1,4 +1,4 @@
-# DIplomacy-Laser-Print
+# Diplomacy-Laser-Print
 .svg and .pdf files for laser printing the Diplomacy board game
 
 ## File Overview
